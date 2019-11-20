@@ -6,6 +6,7 @@ using SpotifyAPI.Web.Auth;
 using SpotifyAPI.Web.Enums;
 using SpotifyAPI.Web.Models;
 using System.Globalization;
+using System.IO;
 
 namespace SpotifyRecommendations
 {
@@ -13,16 +14,18 @@ namespace SpotifyRecommendations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //add the razer api key to all future requests made by the client
+            Http.Client.DefaultRequestHeaders.Add("X-TextRazor-Key", "17839221580e7053352fd25f8012a5f33c111d3f1922565b437ac229 ");
             Example();
             Console.ReadLine();
 
         }
-        public static void Example()
+
+        async static void Example()
         {
             //getting country of user
             string name = RegionInfo.CurrentRegion.EnglishName;
-            Console.WriteLine(name);
+            var analysedtext = await RazerApi.AnalyseText(File.ReadAllText("test.txt"));
 
             var auth = new ImplicitGrantAuth(
                   "7f08980f1dae4f3d98a40d44ef235b03",
@@ -57,12 +60,15 @@ namespace SpotifyRecommendations
                         //Console.WriteLine();
                         Debug.WriteLine(result.title);
                     }
+                   
+                    
                     var spotifyresults = await api.SearchItemsAsync("drake", SearchType.All);
                     if (spotifyresults == null)
                         return;
 
                     Console.WriteLine(spotifyresults);
                 };
+             
                 auth.Start(); // Starts an internal HTTP Server
                 auth.OpenBrowser();          
         }

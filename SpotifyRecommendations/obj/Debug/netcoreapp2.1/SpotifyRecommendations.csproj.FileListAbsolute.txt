@@ -9,3 +9,14 @@ D:\Downloads\SpotifyRecommendations-master\SpotifyRecommendations\obj\Debug\netc
 D:\Downloads\SpotifyRecommendations-master\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.AssemblyInfo.cs
 D:\Downloads\SpotifyRecommendations-master\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.dll
 D:\Downloads\SpotifyRecommendations-master\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.pdb
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.csproj.CoreCompileInputs.cache
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.AssemblyInfoInputs.cache
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.AssemblyInfo.cs
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.dll
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.pdb
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.deps.json
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.runtimeconfig.json
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.runtimeconfig.dev.json
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.dll
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.pdb
+C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.csprojAssemblyReference.cache
