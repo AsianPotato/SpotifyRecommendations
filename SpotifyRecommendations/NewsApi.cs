@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SpotifyRecommendations
 {
-    class NewsApi
+    public class NewsApi
     {
         
         public static async Task<SearchResults> SearchByKeyword(string keyword, string name)
@@ -17,7 +17,7 @@ namespace SpotifyRecommendations
 
                 try
                 {
-                    var html = await Http.Client.GetStringAsync("https://newsapi.org/v2/everything?q=" + "country=" + name + "&" + keyword + "&from=" + DateTime.UtcNow.ToString("YYYY-MM-DD") + "&sortBy=publishedAt&apiKey=8603f409c02a4b9ea1cd2193e56ad9e2");
+                    var html = await Http.Client.GetStringAsync("https://newsapi.org/v2/everything?q=" + keyword +  "&from=" + DateTime.UtcNow.ToString("YYYY-MM-DD") + "&sortBy=publishedAt&apiKey=8603f409c02a4b9ea1cd2193e56ad9e2");
                     Debug.WriteLine(html);
                     var results = JsonConvert.DeserializeObject<SearchResults>(html);
                     return results;

@@ -20,3 +20,13 @@ C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecomm
 C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.dll
 C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.pdb
 C:\Users\computing\Source\Repos\AsianPotato\SpotifyRecommendations\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.csprojAssemblyReference.cache
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.deps.json
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.runtimeconfig.json
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.runtimeconfig.dev.json
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.dll
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\bin\Debug\netcoreapp2.1\SpotifyRecommendations.pdb
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.csprojAssemblyReference.cache
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.AssemblyInfoInputs.cache
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.AssemblyInfo.cs
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.dll
+C:\Users\Dan\Source\Repos\SpotifyRecommendations2\SpotifyRecommendations\obj\Debug\netcoreapp2.1\SpotifyRecommendations.pdb
