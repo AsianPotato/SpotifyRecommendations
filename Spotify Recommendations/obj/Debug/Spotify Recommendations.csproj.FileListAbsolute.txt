@@ -1,0 +1,65 @@
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\obj\Debug\Spotify Recommendations.csprojAssemblyReference.cache
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\obj\Debug\Spotify_Recommendations.Form1.resources
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\obj\Debug\Spotify_Recommendations.Properties.Resources.resources
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\obj\Debug\Spotify Recommendations.csproj.GenerateResource.cache
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Spotify Recommendations.exe.config
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Spotify Recommendations.exe
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Spotify Recommendations.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.Gax.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.Core.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Cloud.Language.V1.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Protobuf.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Auth.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Core.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\SpotifyAPI.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\System.Interactive.Async.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Unosquare.Swan.Lite.dll
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.Gax.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Apis.Core.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Cloud.Language.V1.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Cloud.Language.V1.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Protobuf.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Google.Protobuf.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Auth.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Auth.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Core.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Core.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\SpotifyAPI.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\System.Interactive.Async.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\bin\Debug\Unosquare.Swan.Lite.xml
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\obj\Debug\Spotify Recommendations.csproj.CopyComplete
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\obj\Debug\Spotify Recommendations.exe
+C:\Users\Paul\source\reposs\Spotify Recommendations\Spotify Recommendations\obj\Debug\Spotify Recommendations.pdb
